@@ -1,4 +1,4 @@
-### Zadanie 1
+## Zadanie 1
 
 Po kliknięciu przycisku "ZADANIE 1" wykonuje się funkcja `task1`. Uzupełnij funkcję `task1` tak, aby:
 
